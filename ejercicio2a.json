@@ -1,0 +1,27 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Sonsonate",
+				"habitantes": "72951",
+				"altura": "246MSNM",
+				"idiomaautoctono": "Nahuatl",
+				"areaterritorial": "232.5km2",
+				"_id": "2",
+				"_nombre-": "Sonsonate"
+			}
+		],
+		"moneda": "Dolar",
+		"idioma": "español",
+		"segundoidioma": "Ingles",
+		"codigotelefonico": "+503",
+		"_nombre": "El Salvador"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Sonsonate",
+				"habitantes": "72951",
+				"altura": "246MSNM",
+				"idiomaautoctono": "Nahuatl",
+				"areaterritorial": "232.5km2",
+				"_id": "2",
+				"_nombre-": "Sonsonate"
+			},
+			{
+				"cabecera": "Santa Ana",
+				"habitantes": "272554",
+				"altura": "665MSNM",
+				"idiomaautoctono": "Nahuatl",
+				"areaterritorial": "408km2",
+				"_id": "3",
+				"_nombre-": "Santa Ana"
+			}
+		],
+		"Presidente": "Nayib Bukele",
+		"Capital": "San Salvador",
+		"añoindependencia": "1811",
+		"poblacion": "6,486 Millones",
+		"moneda": "Dolar",
+		"segundamoneda": "Bitcoin",
+		"idioma": "español",
+		"segundoidioma": "Ingles",
+		"codigotelefonico": "+503",
+		"_nombre": "El Salvador"
+	}
+}

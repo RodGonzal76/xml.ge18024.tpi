@@ -1,0 +1,27 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"telefono": "7750-2619",
+				"correo": "ge18024@ues.edu.sv",
+				"url": "https://rodgonzal76.github.io/ge18024/",
+				"_id": "2",
+				"_datospersonales": "01/09/2022"
+			},
+			{
+				"dui": "06063517-4",
+				"isss": "1345678999",
+				"afp": "12346579888",
+				"_id": "2",
+				"_datosidentificacion": "01/09/2022"
+			}
+		]
+	}
+}

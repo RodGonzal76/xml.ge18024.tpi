@@ -1,0 +1,29 @@
+*{
+    color:#FFFFFF;
+}
+.contenedor-ppal{
+    margin: 0 auto;
+    margin-top: 2rem;
+    max-width: 100rem;
+    padding-top: 1rem;
+    font-size: 2rem;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+a,li{
+    display: block;
+}
+.contenedor-guia{
+    margin-top: 3rem;
+    display: grid;
+    grid-template-columns: repeat(2, 0fr);
+    column-gap: 5rem;
+    text-align: center;
+}
+body{
+    background-image:url(https://static.nationalgeographicla.com/files/styles/image_3200/public/small_magellanic_cloud_nationalgeographic_1095053.jpg?w=1600&h=900);
+    background-size:cover;
+    background-attachment: fixed;
+}

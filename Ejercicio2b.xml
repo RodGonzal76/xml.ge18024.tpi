@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio2b.css" ?>
+<!-- ejemplo2.xml  GE18024 -->
+<pais nombre="El Salvador">
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre-="Sonsonate">
+<cabecera>Sonsonate</cabecera>
+<habitantes>72951</habitantes>
+<altura>246MSNM</altura>
+<idiomaautoctono>Nahuatl</idiomaautoctono>
+<areaterritorial>232.5km2</areaterritorial>
+</departamento>
+<departamento id="3" nombre-="Santa Ana">
+<cabecera>Santa Ana</cabecera>
+<habitantes>272554</habitantes>
+<altura>665MSNM</altura>
+<idiomaautoctono>Nahuatl</idiomaautoctono>
+<areaterritorial>408km2</areaterritorial>
+</departamento>
+<Presidente>Nayib Bukele</Presidente>
+<Capital>San Salvador</Capital>
+<añoindependencia>1811</añoindependencia>
+<poblacion>6,486 Millones</poblacion>
+<moneda>Dolar</moneda>
+<segundamoneda>Bitcoin</segundamoneda>
+<idioma>español</idioma>
+<segundoidioma>Ingles</segundoidioma>
+<codigotelefonico>+503</codigotelefonico>
+</pais>
